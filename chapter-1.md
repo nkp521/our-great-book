@@ -2,6 +2,10 @@
 
 There's quite a bit of information on this page; we'll cover a few of the most helpful things:
 
+    Lets Start!
+
+    Read this very carefully!
+    
     At the top of the page, note that the "Pull requests" tab is active. This is where you can go to see all the open (i.e., not yet merged) pull requests.
 
     Below that, there is a second set of tabs in which the "Conversation" tab is currently active. This is where you can see the overview of the pull request, as well as any comments that have been added.
